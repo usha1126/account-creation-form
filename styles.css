@@ -1,0 +1,98 @@
+.first {
+    text-align: left;
+}
+.second {
+    text-align: left;
+}
+#headding {
+    text-align: center;
+    margin-top: 40px;
+}
+.create {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 500px;
+    margin-right: 400px;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.sub {
+    text-align: center;
+    margin-top: 60px;
+}
+#submit {
+    border-radius: 20px;
+    height: 60px;
+    width: 100px;
+    background-color: green;
+
+}
+.body {
+  background-image: url("selfie.jpg");
+  background-size: 1500px;
+  background-position: 20px;
+  filter: 100%;
+  border-radius: 1500px;
+}
+
+
+#head {
+    color: darkgreen;
+}
+#name {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+}
+#DOB {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#age {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+    
+} 
+#aadhar {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#pan {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#mobile {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#email {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#father {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#fatheraadhar {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#mother {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellow;
+} 
+#motheraadhar {
+    border-radius: 10px;
+    height: 30px;
+    border-color: yellowgreen;
+}
